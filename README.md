@@ -1,4 +1,3 @@
-feature_imgfiles_readmefile
 # FIP
 ## LOVELY SOCKS
 
@@ -6,5 +5,4 @@ For the FIP I created a web page (LOVELYOSKCS), it has a desktop and mobile home
 
 
 <img src="images/LSLOGO.jpg" alt="Lovely socks Logo">
-# FIP-MMED-1054
-lovelysocks
+
